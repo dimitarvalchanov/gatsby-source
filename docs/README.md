@@ -1,5 +1,7 @@
 ---
 title: Example article
+name: Example
+menu: Components
 slug: example-article
 published: true
 date: 01/01/2020 3:14pm
