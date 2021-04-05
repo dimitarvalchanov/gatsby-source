@@ -1,5 +1,6 @@
 ---
 title: Example article
+description: What this is?
 name: Example
 menu: Components
 slug: example-article
