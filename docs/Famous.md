@@ -2,6 +2,7 @@
 title: Famous Framework Guide
 slug: famous-framework-guide
 published: true
+menu: Frontend frameworks
 date: 01/01/2020 3:14pm
 ---
 
@@ -11,7 +12,7 @@ Famous Framework is a JavaScript library for building user interfaces.
 
 - **Declarative:** Famous Framework makes it painless to create interactive UIs. Design simple views for each state in your application, and Famous Framework will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
 - **Component-Based:** Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
-- **Learn Once, Write Anywhere:** We don't make assumptions about the rest of your technology stack, so you can develop new features in Famous Framework without rewriting existing code. Famous Framework can also render on the server using Node and power mobile apps using [Famous Framework Native](https://Famous Frameworknative.dev/).
+- **Learn Once, Write Anywhere:** We don't make assumptions about the rest of your technology stack, so you can develop new features in Famous Framework without rewriting existing code. Famous Framework can also render on the server using Node and power mobile apps using [Famous Framework Native](https://Famousnative.dev/).
 
 ## Installation
 
@@ -43,9 +44,9 @@ function HelloMessage({ name }) {
   return <div>Hello {name}</div>;
 }
 
-Famous FrameworkDOM.render(
+FamousDOM.render(
   <HelloMessage name="Taylor" />,
-  document.getElementById('container')
+  document.getElementById("container")
 );
 ```
 
