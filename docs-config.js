@@ -1,8 +1,8 @@
 module.exports = {
-  menu: [
+  pages: [
     {
-      name: "Frontend Frameworks",
-      content: ["docs/Famous.md", "docs/README.md"],
+      menu: "Frontend Frameworks",
+      pages: ["docs/Famous.md", "docs/README.md"],
     },
   ],
 };
