@@ -15,7 +15,7 @@ date: 01/01/2020 3:14pm
 [Relative link](./README.md)
 
 #3:
-[Root link](../README/.md)
+[Root link](../README.md)
 
 Famous Framework is a JavaScript library for building user interfaces.
 
