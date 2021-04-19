@@ -19,3 +19,7 @@ This is the first document
 # 2
 
 [Setup link](./Setup/example.md)
+
+# 3
+
+[Ruby version](../.ruby-version)
