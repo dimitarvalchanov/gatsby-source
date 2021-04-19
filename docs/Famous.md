@@ -8,6 +8,8 @@ date: 01/01/2020 3:14pm
 
 # Famous Framework
 
+[Relative link](./README.md)
+
 Famous Framework is a JavaScript library for building user interfaces.
 
 - **Declarative:** Famous Framework makes it painless to create interactive UIs. Design simple views for each state in your application, and Famous Framework will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable, simpler to understand, and easier to debug.
